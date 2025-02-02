@@ -1,0 +1,9 @@
+{
+  "title": "Computer Science Notes",
+  "description": "Compilation of computer science learning materials",
+  "language": "en",
+  "gitbook": "3.2.3",
+  "structure": {
+    "readme": "README.md"
+  }
+}
